@@ -41,8 +41,8 @@ linkedin_username: RaymondSiu1
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-gtag: "G-JLHL2WQ67T"
-# google_analytics: "UA-00000000-0"
+#gtag: "G-JLHL2WQ67T"
+google_analytics: "G-JLHL2WQ67T"
 
 # About Section
 # about_title: About Me
