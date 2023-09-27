@@ -40,8 +40,8 @@ linkedin_username: RaymondSiu1
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-gtm: "G-JLHL2WQ67T"
-#gtag: "G-JLHL2WQ67T"
+#gtm: "G-JLHL2WQ67T"
+gtag: "G-JLHL2WQ67T"
 #google_analytics: "G-JLHL2WQ67T"
 
 # About Section
